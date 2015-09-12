@@ -2,4 +2,10 @@
 	"tags": ["rotation", "size"],
 	"question": "what is that?",
 	"answer": "It's all Torque dude!"
+},
+
+{
+	"tags": ["bones"],
+	"question": "What bone connects your knee to you hips?",
+	"answer": "Your femur."
 }
